@@ -119,7 +119,7 @@ export default function Chat(props: { user: any }) {
               }
             }}
             onChange={(e) => setMessage(e.target.value)}
-            className="flex-grow text-black outline-none p-2 border border-gray-300 rounded-l"
+            className="flex-grow text-black outline-none p-2 border w-full border-gray-300 rounded-l"
           />
           <button
             onClick={addMessage}
