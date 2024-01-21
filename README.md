@@ -38,7 +38,3 @@ Para executar este projeto, você precisará ter Node.js instalado em sua máqui
 ## Contribuições
 
 Contribuições são sempre bem-vindas! Por favor, leia as CONTRIBUTING.md para saber como contribuir para este projeto.
-
-## Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
